@@ -13,9 +13,9 @@
 
 # git status
 
-# git config --global user.email "lucaribeiro.dev@gmail.com"
+# git config --global user.email "e-mail git"
 
-# git config --global user.name "Lucas Ribeiro"
+# git config --global user.name "nome"
 
 # git commit -m "first commit"
 
